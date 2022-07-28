@@ -21,7 +21,7 @@ During meeting yesterday, I heard some items that I felt I needed to confirm
 
 
 ### TODO
-1. Add Testing
+1. Add Testing!!!!!!!!!
 2. Add GitHub Actions for cicd
 3. Add dockercompose up 
 4. Deploy to Cloud container like Digital Ocean
